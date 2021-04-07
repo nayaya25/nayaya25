@@ -14,7 +14,7 @@
   - API Design
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Hobbies: Problem Solving, Programming, Footbal, Reading, Movies
+- ⚡ Hobbies: Problem Solving, Programming, Football, Reading, Movies
 
 ### Connect with me:
 
